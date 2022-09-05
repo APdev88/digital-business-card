@@ -4,7 +4,6 @@
 - [Technologies Used](#technologies-used)
 - [Screenshots](#screenshot)
 - [Links](#links)
-- [Useful resources](#useful-resources)
 - [What I learned](#what-i-learned)
 - [Contacts](#Contact)
 
