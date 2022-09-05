@@ -26,7 +26,7 @@ This is the first React project of the Scrimba course.
 
 ## Links
 
-- Live Site URL: [https://article-preview-component-ap.netlify.app/]
+- Live Site URL: [https://digital-business-card-ap.netlify.app/]
 
 ## What I learned
 
