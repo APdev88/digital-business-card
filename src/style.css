@@ -168,7 +168,7 @@ a:active {
 /* Footer */
 .footer {
   background-color: var(--background-color);
-  padding: 0px 36px 20px 36px;
+  padding: 10px 36px 10px 36px;
   margin: 0 auto;
   background-color: #161619;
   border-radius: 0px 0px 10px 10px;
